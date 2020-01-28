@@ -80,6 +80,9 @@ img{
 p{
     color: rgba(161, 159, 159, 0.856);
 }
+.attribution{
+    text-align: center;
+}
 @media screen and (max-width:375px) {
     body {
         max-width: 342px;
